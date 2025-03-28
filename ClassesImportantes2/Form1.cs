@@ -45,7 +45,7 @@ namespace ClassesImportantes2
             }
 
             //labeltex.Text = resultadoJanela.ToString();
-
+            //text fakeee
 
 
         }
